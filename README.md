@@ -25,7 +25,7 @@ A Python tool specialized in converting mathematical formula text output by Larg
 ## 使用场景
 
 主要用于处理以下场景：
-1. 将Gemini等AI模型输出的数学公式文本转换为标准Markdown
+1. 将Gemini等AI模型输出的数学公式文本转换为标准Markdown（作者仅仅测试了谷歌的Ai studio）
 2. 处理包含大量数学公式的文档
 3. 批量转换非标准数学公式为LaTeX格式
 
