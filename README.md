@@ -6,6 +6,10 @@ A Python tool specialized in converting mathematical formula text output by Larg
 在vscode中使用 渲染插件选择markdown preview enhanced 插件的设置中选择使用katex
 ![image](https://github.com/user-attachments/assets/aed97a45-f468-4b76-ab55-a99cd2ad1ce6)
 
+## 预览效果
+![image](https://github.com/user-attachments/assets/97c0646f-a81b-448a-a5a9-c014c36e53aa)
+
+
 ## 主要功能
 
 - 自动识别并格式化数学公式
