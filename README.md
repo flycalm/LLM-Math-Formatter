@@ -1,5 +1,5 @@
 # Markdown Math Formula Converter
-
+A Python tool specialized in converting mathematical formula text output by Large Language Models (LLMs) like Gemini into standard LaTeX-formatted Markdown.
 一个专门用于将Gemini等大语言模型输出的数学公式文本转换为标准LaTeX格式Markdown的Python工具。
 
 ## 主要功能
